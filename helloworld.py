@@ -1,3 +1,2 @@
-def HelloWorld():
-    print("Hello World.")
-HelloWorld()
+
+print("Hello World.")
